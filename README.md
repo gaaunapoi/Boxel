@@ -1,6 +1,6 @@
 # Boxel
 
-Boxel - A tool changer add on for most CoreXY printers.
+Boxel - A tool changer add on for most CoreXY printers. It is based off of E3D's Toolchanger and is compatible with it's tool plates.
 
 ### Linear Rail Version
 [![Boxel Working](https://img.youtube.com/vi/SFULHxbcgZo/0.jpg)](https://www.youtube.com/watch?v=SFULHxbcgZo)
