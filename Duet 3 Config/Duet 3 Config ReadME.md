@@ -16,5 +16,7 @@ THIS REPOSITORY IS A CONSTANT DEVELOPMENT AND I CANNOT GUARANTEE THAT THE FILES 
 
 Useful Links: 
 [Relevant Gcode Dictionary](https://duet3d.dozuki.com/Wiki/Gcode)
+
 [RepRap Firmware](https://duet3d.dozuki.com/c/RepRapFirmware)
+
 [Firmware Releases](https://github.com/dc42/RepRapFirmware/releases)
