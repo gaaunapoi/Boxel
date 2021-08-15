@@ -25,3 +25,5 @@ Useful Links:
 [Stall_Detection_and_Sensorless_Homing](https://duet3d.dozuki.com/Wiki/Stall_detection_and_sensorless_homing)
 
 [Bed_Levelling_Using_Multiple_Independent_Z_Motors](https://duet3d.dozuki.com/Wiki/Bed_levelling_using_multiple_independent_Z_motors)
+
+[dc42's E3D Toolchanger Config](https://github.com/Duet3D/RRF-machine-config-files/tree/master/E3D_Tool_Changer/dc42-duet3-centreZero-2Titan-2Hemera)
