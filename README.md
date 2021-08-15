@@ -2,4 +2,8 @@
 
 Boxel - A tool changer add on for most CoreXY printers.
 
+### Linear Rail Version
 [![Boxel Working](https://img.youtube.com/vi/SFULHxbcgZo/0.jpg)](https://www.youtube.com/watch?v=SFULHxbcgZo)
+
+### POM Wheel Version
+![](https://github.com/gaaunapoi/Boxel/blob/main/POM%20Wheels%20Version/Photos/POM%20Wheels.PNG)
