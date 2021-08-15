@@ -21,3 +21,7 @@ Useful Links:
 [RepRap Firmware](https://duet3d.dozuki.com/c/RepRapFirmware)
 
 [Firmware Releases](https://github.com/dc42/RepRapFirmware/releases)
+
+[Stall_Detection_and_Sensorless_Homing](https://duet3d.dozuki.com/Wiki/Stall_detection_and_sensorless_homing)
+
+[Bed_Levelling_Using_Multiple_Independent_Z_Motors](https://duet3d.dozuki.com/Wiki/Bed_levelling_using_multiple_independent_Z_motors)
