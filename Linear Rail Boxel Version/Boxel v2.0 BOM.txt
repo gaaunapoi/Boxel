@@ -1,0 +1,33 @@
+Boxel V2.0 BOM
+1x Duet 3 6HC $235 https://www.matterhackers.com/store/l/duet3d-duet-3-6hc-3d-printer-controller-board/sk/M1X8786S
+or $145 https://www.aliexpress.com/item/1005001633929773.html?spm=a2g0o.productlist.0.0.62fd14baisWvt1&algo_pvid=1b89836d-7b7c-40aa-ba18-6d5528d51ac3&algo_exp_id=1b89836d-7b7c-40aa-ba18-6d5528d51ac3-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000016911657564%22%7D
+1x Duet 3 Tool Distobution Board $16.38 https://www.aliexpress.com/item/1005002740768316.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+or $24.99 https://www.filastruder.com/products/duet-3-tool-distribution-board
+1-4x Duet 3 Toolboard 1LC $29.05 https://www.aliexpress.com/item/1005002459738323.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+Or $50 https://www.matterhackers.com/store/l/duet3d-duet-3-toolboard-1lc-v10/sk/M5GLG8G4
+MGN9H 420mm $16.32 https://www.aliexpress.com/item/NEW-9mm-Linear-Guide-MGN9-100-150-200-250-300-350-400-450-500-550-600/32773296501.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+MGN12H 424MM $17.20 https://www.aliexpress.com/item/12mm-Linear-Guide-MGN12-100-150-200-250-300-350-400-450-500-550-600-700/32829826159.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+Carbon Fiber Tube 500mm $10.80 https://www.aliexpress.com/item/TianYuQi-1pcs-3K-full-carbon-fiber-square-tube-high-strength-length-500mm-OD-10mm-15mm-20mm/32946654825.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+Smooth Idle Pully 4pack $10.99 https://www.aliexpress.com/item/POWGE-2M-2GT-20-Teeth-synchronous-Wheel-Idler-Pulley-Bore-3-4-5mm-with-Bearing-Black/32726309946.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+Teeth Idle Pully 10pack $19.99  https://www.aliexpress.com/item/POWGE-2M-2GT-20-Teeth-synchronous-Wheel-Idler-Pulley-Bore-3-4-5mm-with-Bearing-Black/32726309946.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+3x12mm Pin 10pack $1.50 https://www.aliexpress.com/item/GB119-1-M1-5-M10-Cylindrical-Pin-Parallel-Pins-304-Stainless-Steel-A042/32975348267.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+4x10mm Pin 10pack $1.86 https://www.aliexpress.com/item/10Pcs-M1-5-M2-M2-5-M3-M4-GB119-304-Stainless-Steel-Cylindrical-Pin-Locating-Dowel/32871574546.html?spm=a2g0s.9042311.0.0.27424c4dTJnlpO
+8mm Ball Bearing 50pack $2.70 https://www.aliexpress.com/item/50pcs-6-35mm-6-35-4mm-5mm-6mm-8mm-9mm-10mm-G10-Bike-Bicycle-Cycling-Steel/32947429928.html?spm=a2g0s.9042311.0.0.27424c4dTJnlpO
+Thrust Bearing 5x12x4mm $0.85 https://www.aliexpress.com/item/1PC-F2-6M-F3-8M-F5-10M-F6-12M-F8-16M-F10-18M-F12-21M-F12/4000803101862.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+Flanged Bearing F695ZZ $2.54 https://www.aliexpress.com/item/5-8pcs-Lot-F692ZZ-F693ZZ-F694ZZ-F695ZZ-Flange-Bearing-Deep-Groove-Ball-Bearing-Mini-Ball-Bearing/32764168088.html?spm=a2g0s.9042311.0.0.27424c4dTJnlpO
+5x10x4mm Ball Bearing $3.51 https://www.aliexpress.com/item/32830761829.html?spm=a2g0o.productlist.0.0.34b65f1eNSuqfT&algo_pvid=dbcab58e-09b3-4afb-9337-462fb122b9f6&algo_exp_id=dbcab58e-09b3-4afb-9337-462fb122b9f6-0&pdp_ext_f=%7B%22sku_id%22%3A%2265025030076%22%7D
+8mm Stand off spacers 20pack $1.28 https://www.aliexpress.com/item/5-50pcs-Hex-Male-to-Female-M2-M2-5-M3-M4-M5-brass-standoff-spacer-Hexagonal/33029404713.html?spm=a2g0s.9042311.0.0.27424c4dTJnlpO
+M3 T nuts 50pack $2.77 https://www.aliexpress.com/item/32814359094.html?spm=a2g0o.productlist.0.0.11f61c5eKEGnyO&algo_pvid=896bea8d-94d6-4bb3-afba-471e1a46b81b&algo_exp_id=896bea8d-94d6-4bb3-afba-471e1a46b81b-0&pdp_ext_f=%7B%22sku_id%22%3A%2266498695475%22%7D
+M3 6mm and 8mm Machine head screws x50 each $4.90 https://www.aliexpress.com/item/10000150053486.html?spm=a2g0o.productlist.0.0.5d5c1140wz3joV&algo_pvid=a4bb73a9-23ff-4835-a0a5-b3fad7d5ce8d&algo_exp_id=a4bb73a9-23ff-4835-a0a5-b3fad7d5ce8d-1&pdp_ext_f=%7B%22sku_id%22%3A%2220000000127991027%22%7D
+M3 flanged nylon nuts 40pack $1.20 https://www.aliexpress.com/item/1005001454427677.html?spm=a2g0o.productlist.0.0.42152192K91duq&algo_pvid=a38b40ac-7d61-4090-a6dd-738a5fa678ee&algo_exp_id=a38b40ac-7d61-4090-a6dd-738a5fa678ee-1&pdp_ext_f=%7B%22sku_id%22%3A%2212000016185608792%22%7D
+20gauge 6conductor wire 25ft $22.99 https://www.amazon.com/gp/product/B089SGSN6H/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1
+Pocket tape measure ~9m $6 https://www.amazon.com/CRAFTSMAN-Measure-Pocket-9-Foot-CMHT37109S/dp/B08GH6P6P4/ref=sr_1_7?dchild=1&keywords=pocket+tape+measure+9+ft&qid=1629017856&sr=8-7
+Wire Covering 10ft $17.99 https://www.autozone.com/starting-charging-and-miscellaneous-electrical/wire-sleeve/p/dorman-conduct-tite-3-8in-split-braided-loom/1078270_0_0
+
+Optional parts:
+Biqu H2 Extruder $92.99 https://www.amazon.com/gp/product/B0948GYNW1/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+Biqu H2 all metal heat break $6.50 https://www.aliexpress.com/item/1005002129601463.html?spm=a2g0o.detail.1000023.17.181c7f30V0EVlI
+4010 Fans 5pack $15.90 https://www.aliexpress.com/item/Mellow-3D-Printer-fan-12V-24V-40-10mm-4010-Dual-Bearing-Blow-Radial-Extruder-DC-Cooling/33025043602.html?spm=a2g0s.9042311.0.0.ccc34c4dcfABb3
+
+
+
